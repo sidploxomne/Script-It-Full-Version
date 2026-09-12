@@ -238,3 +238,6 @@ This repository serves as the official landing page for Script It. The software 
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Script It today!**
+
+---
+**Last updated:** 2026-09-12 05:19:01 UTC
